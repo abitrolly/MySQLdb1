@@ -6,7 +6,7 @@ mysqlclient
 This is a fork of [MySQLdb1](https://github.com/farcepest/MySQLdb1).
 
 This project adds Python 3 support and bug fixes.
-I hope this fork is merged back to MySQLdb1 like distribute was merged back to setuptools.
+I hope this fork is [merged back](https://github.com/farcepest/MySQLdb1/pull/62) to MySQLdb1 like distribute was merged back to setuptools.
 
 Prerequisites for Installing
 ----------------------------
